@@ -18,6 +18,7 @@ namespace GPOOHLT
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmMain());
             //Utils.Classes.GlobalData.GetDate(DateTime.Now.ToString());
+            //testing
 
         }
     }
