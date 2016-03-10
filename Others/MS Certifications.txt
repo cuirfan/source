@@ -1,0 +1,16 @@
+
+MCTS: Visual Studio 2010   https://www.microsoft.com/en-pk/learning/visual-studio-certification.aspx
+Certification title	                                          Required exam
+MCTS: .NET Framework 4, Windows Applications	              	  70-511
+MCTS: .NET Framework 4, Service Communication Applications	  70-513
+MCTS: .NET Framework 4, Web Applications	                  70-515
+MCTS: .NET Framework 4, Data Access	                          70-516
+
+Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3 (MCSD)
+Exam Ref 70-483 Programming in C# (MCSD)
+Exam Ref 70-486 Developing ASP.NET MVC 4 Web Applications (MCSD)
+
+http://forums.asp.net/t/1888083.aspx?Microsoft+Certification+Like+MCTS+MCSD+MCPD
+
+
+- Copying to [dbo].['Patients to Use$'] (Success)
